@@ -8,6 +8,13 @@ class TraincheckoutApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Test Passed");
+	}
+
+	@Test
+	void denemeTest() {	
+		TestController controller = new TestController(new TestService());
+		controller.testController();
 	}
 
 }
