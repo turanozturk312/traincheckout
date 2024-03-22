@@ -1,1 +1,1 @@
-# traincheckout
+Bir e-learning platformunun satın alma akışını birlikte tasarlayıp, kodlayalım. Satınalma akışını sisteme hali hazırda giriş yapmış, kayıtlı bir kullanıcı gerçekleştirmeye çalışmaktadır. Kullanıcı satın almak istediği kursları seçer, kredi kartı bilgilerini girerek satın alma talebini belirtir. Kredi kartından tahsilat işlemi harici başka bir sistem tarafından gerçekleştirilmektedir. Bu sistem tahsilat için miktarı ve kredi kartı bilgilerini beklemektedir. Eğer satınalma işlemi başarılı ise kullanıcının satın aldığı kurslara kaydı yapılmalıdır.
